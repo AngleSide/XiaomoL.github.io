@@ -1,0 +1,28 @@
+.indexOne {
+    display:flex;
+    background: url(http://www.fjydxx.com/skin/ws/images/top.jpg) repeat-x;
+    BORDER-BOTTOM: #ccc 1px solid;
+    HEIGHT: 23px;
+	
+}
+
+.index1 {
+    margin: 0;
+    display:flex;
+    /* float: left; */
+    text-align: left;
+    BORDER-BOTTOM: #ccc 1px solid;
+	font-size: 12px;
+    line-height: 23px;
+
+}
+
+
+.guanZhu {
+    margin: 0;
+    display:flex;
+    margin-left: auto;
+    BORDER-BOTTOM: #ccc 1px solid;
+	font-size: 12px;
+    line-height: 23px;
+} 
